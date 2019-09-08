@@ -6,9 +6,7 @@
 
 ***PS:只是整合，所以有的资料上面会有其他机构、论坛、公众号的广告。***
 
-所有资料大概4.5G左右。
 
-![avater](./img/文件大小.PNG)
 
 使用GitHub Desktop 上传到GitHub中，速度平均为3M/s，如果国内GitHub下载不快，可以考虑fork到自己账号下导入码云下载，可以达到2M/s。
 
@@ -64,36 +62,5 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
 https://github.com/fool2fish/dragon-book-exercise-answers
 
-### 复试安排
-
-![avater](./img/复试安排.png)
-
-![avater](./img/复试安排2.png)
-
-# 本科课表
-
-![avater](./img/南京大学计算机专业课.jpg)
-
-# 硕士研究生课表
 
 
-# 路线-地铁
-
-![avater](./img/到南大-地铁线路.PNG)
-
-
-# 南大仙林校区介绍
-
-![avater](./img/南京大学-仙林校区介绍.JPG)
-
-# 南大仙林校区地图
-
-![avater](./img/南京大学-仙林校区地图.PNG)
-
-# 校车班车列表
-
-![avater](./img/南京大学-校园班车时间列表.JPG)
-
-# 南大机构电话
-
-![avater](./img/南京大学-组织机构电话.jpg)
